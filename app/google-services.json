@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657084218370",
+    "project_id": "login-28892",
+    "storage_bucket": "login-28892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657084218370:android:27ddc23f57b962fb94bb1b",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657084218370-1ha70mns1hpodur23g8ao1rr9ih9pd1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.itesca.login",
+            "certificate_hash": "5bcd3a813e2c2355666fa1fe6ca07548e5456356"
+          }
+        },
+        {
+          "client_id": "657084218370-d2a7uar40ff4p36h1l7bc4qidvg7f7qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7YnFA6nerrXdtuD0T42kY8wMPp0oL1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657084218370-d2a7uar40ff4p36h1l7bc4qidvg7f7qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
